@@ -1,27 +1,43 @@
-# React + TypeScript + Vite
+<h1 align="center">:file_cabinet: Exemplo de README.md</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## :memo: Descrição
 
-Currently, two official plugins are available:
+Escreva uma descrição do seu projeto
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :books: Funcionalidades
 
-## Expanding the ESLint configuration
+- <b>Funcionalidade 1</b>: O que essa funcionalidade faz?
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+## :wrench: Tecnologias utilizadas
 
-- Configure the top-level `parserOptions` property like this:
+- Tecnologia;
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
+## :rocket: Rodando o projeto
+
+Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
+
+```
+<linha de comando>
+
 ```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## :soon: Implementação futura
+
+- O que será implementado na próxima sprint?
+
+## :handshake: Colaboradores
+
+<table>
+<tr>
+<td align="center">
+<a href="http://github.com/tatialveso">
+<img src="https://avatars.githubusercontent.com/u/56259137?v=4" width="100px;" alt="Foto de Tati Alves no GitHub"/><br>
+<sub>
+<b>tatialveso</b>
+</sub>
+</a>
+</td>
+</tr>
+</table>
+
+## :dart: Status do projeto
