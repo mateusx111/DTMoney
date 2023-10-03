@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Aluguel",
+      "type": "outcome",
+      "price": "1200",
+      "category": "Venda",
+      "createdAt":  "2023-10-03T12:58:19.091Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "price": "20",
+      "category": "Alimentação",
+      "createdAt":  "2023-10-03T12:58:19.091Z"
+    }
+  ]
+}
