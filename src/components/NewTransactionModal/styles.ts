@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import * as Dialog from '@radix-ui/react-dialog'
 import * as RadioGroup from '@radix-ui/react-radio-group'
 import styled from 'styled-components'
@@ -99,8 +100,8 @@ export const TransactionTypeButton = styled(
   svg {
     color: ${(props) =>
     props.variant === 'income'
-    ? props.theme['blue-900']
-    : props.theme['red-500']};
+      ? props.theme['blue-900']
+      : props.theme['red-500']};
   }
 
   &[data-state='unchecked']:hover {
