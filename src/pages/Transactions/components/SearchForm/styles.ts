@@ -32,9 +32,14 @@ export const SearchFormContainer = styled.form`
     border-radius: 8px;
     cursor: pointer;
 
-    &:hover {
+    &:disabled {
+      opacity: 0.7;
+      cursor: not-allowed;
+    }
+
+    &:not(:disabled):hover {
       background: ${(props) => props.theme['blue-900']};
-      border: 2px solid ${(props) => props.theme['blue-700']};
+      border-color: ${(props) => props.theme['blue-700']};
       color: ${(props) => props.theme.white};
       transition:
         background-color 0.2s,
