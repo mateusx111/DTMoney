@@ -6,7 +6,7 @@
       "type": "outcome",
       "price": 1100,
       "category": "Venda",
-      "createdAt":  "2023-10-03T12:58:19.091Z"
+      "createdAt": "2023-10-03T12:58:19.091Z"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "type": "outcome",
       "price": 20,
       "category": "Alimentação",
-      "createdAt":  "2023-10-03T12:58:19.091Z"
+      "createdAt": "2023-10-03T12:58:19.091Z"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "type": "income",
       "price": 16000,
       "category": "Trabalho",
-      "createdAt":  "2023-10-03T12:58:19.091Z"
+      "createdAt": "2023-10-03T12:58:19.091Z"
     },
     {
       "id": 4,
@@ -30,7 +30,23 @@
       "type": "outcome",
       "price": 2000,
       "category": "Educação",
-      "createdAt":  "2023-10-03T12:58:19.091Z"
+      "createdAt": "2023-10-03T12:58:19.091Z"
+    },
+    {
+      "description": "Rodas do carro",
+      "price": 1200,
+      "category": "Veículo",
+      "type": "outcome",
+      "createdAt": "2023-10-12T10:30:20.369Z",
+      "id": 5
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 12000,
+      "category": "Trabalho",
+      "type": "income",
+      "createdAt": "2023-10-12T10:48:18.900Z",
+      "id": 6
     }
   ]
 }
